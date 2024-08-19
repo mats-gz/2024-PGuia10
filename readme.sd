@@ -1,0 +1,6 @@
+# 🪴 - TP Nº10
+
+### 🌿 - Requisitos
+python install pillow
+
+🌿 - En este código, vamos a imprimir por la consola la posición (coordenadas) de los pixeles los cuales tengan el mismo RGB de la variable tono_buscado, donde la imagen seleccionada (que tiene q ser en escalas de negro y blanco) se abre con un with. En pixeles_finales se guardan todas las coordenadas que coincidan con el tono RGB especificado, y al final se imprimen los pixeles en consola.
